@@ -48,7 +48,7 @@ c "Weber Street" (2,1) (2,2)
 Note - A street can only be changed after being adding to the street set
 
 #### Generating graph
-To remove a street from the street set, enter the command in the following format:
+To generate the graph from the street set, type ```g``` after adding multiple streets to the street set:
 ```
 #input
 a "Weber Street" (2,-1) (2,2) (5,5) (5,6) (3,8)
