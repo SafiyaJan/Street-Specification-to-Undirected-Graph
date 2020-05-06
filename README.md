@@ -34,7 +34,7 @@ To remove a street from the street set, enter the command in the following forma
 ```
 r "<Street Name>"  
 # For example:
-a "Weber Street"
+r "Weber Street"
 ```
 Note - A street can only be removed after being adding to the street set
 
